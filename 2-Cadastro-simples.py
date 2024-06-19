@@ -1,4 +1,4 @@
-#Faça um programa que receba o nome de um usuário e deseje boas vindas.
+#Faça um programa que receba o nome, idade, e peso de um usuário e imprima os dados obtidos.
 
 nome = str(input('Digite seu nome: '))
 idade = int(input('Digite sua idade: '))
